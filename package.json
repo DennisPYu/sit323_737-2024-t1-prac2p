@@ -1,0 +1,15 @@
+{
+  "name": "sit323_737-2024-t1-prac2p",
+  "version": "1.0.0",
+  "description": "sit323_737-2024-t1-prac2p",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server_get.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
